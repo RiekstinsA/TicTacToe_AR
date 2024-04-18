@@ -1,0 +1,16 @@
+Tika skatītie šie video, kuriem sekojot līdzi no sākuma līdz beigām tika izstrādāta aplikācija
+https://www.youtube.com/watch?v=Zqnq-kSMMc0
+https://www.youtube.com/watch?v=7Af2UEiKt80
+
+Veidojot aplikāciju pamainītas dažas nianses, kā sākuma ekrāns ar vārdu, uzvārdu un mainītu izvietojumu.
+Izveidots pieslēgums Firestore un caur to spēlēts online caur 2 emulatoriem.
+Pievienoti komentāri.
+
+
+Video ar aplikāciju darbībā:
+
+Offline spēle:
+https://youtu.be/eCaCpiOFNng
+
+Online spēle ar Firestore datubāzi:
+https://youtu.be/p3xV3l1MM6I
